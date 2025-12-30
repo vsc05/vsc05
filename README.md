@@ -1,7 +1,8 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines-red.png" width="100%" alt="Banner" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=I'm%20Gasan%20👋&fontSize=70" width="100%" />
+</p>
 
-  <h1>I'm Gasan 👋</h1>
+<div align="center">
   <p><b>Developer from Russia 🇷🇺 | Любитель системного кода и красивого фронтенда</b></p>
 </div>
 
@@ -27,17 +28,6 @@
 
 ---
 
-### 📊 Моя статистика GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ТВОЙ_НИК]&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ТВОЙ_НИК]&layout=compact&theme=radical&hide_border=true" alt="Langs" />
-</p>
-
----
-
 ### 📫 Связь со мной:
-<p align="left">
-<a href="https://t.me/vsc05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="telegram" height="30" width="40" /></a>
-<a href="mailto:gasa.abdullaev.99@bk.ru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
-</p>
+[![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vsc05)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gasa.abdullaev.99@bk.ru)
