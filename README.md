@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cs.pikabu.ru/post_img/2013/03/29/2/1364511810_475972103.gif](https://i.imgur.com/0N1FiT8.gif" width="100%" alt="Banner" />
+<img src="https://i.imgur.com/0N1FiT8.gif" width="100%" alt="Banner" />
 
   <h1>I'm Gasan 👋</h1>
   <p><b>Developer from Russia 🇷🇺 | Любитель системного кода и красивого фронтенда</b></p>
