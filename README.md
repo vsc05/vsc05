@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=I'm%20Gasan%20👋&fontSize=70" width="100%" />
-</p>
-
 <div align="center">
+  <img src="https://i.pinimg.com/1200x/74/a9/4f/74a94f1ee710e9c72a1685418b7a5db7.jpg" width="100%" alt="Banner" />
+
+  <h1>I'm Gasan 👋</h1>
   <p><b>Developer from Russia 🇷🇺 | Любитель системного кода и красивого фронтенда</b></p>
 </div>
 
