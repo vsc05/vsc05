@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/74/a9/4f/74a94f1ee710e9c72a1685418b7a5db7.jpg" width="100%" alt="Banner" />
+  <img src="[https://i.pinimg.com/1200x/74/a9/4f/74a94f1ee710e9c72a1685418b7a5db7.jpg](https://komponentavto.ru/upload/iblock/08f/311yy4r3eyjqaonqogz3d7hm2qoth9t8.png)<img width="543" height="292" alt="image" src="https://github.com/user-attachments/assets/b87dace0-32b9-4a03-b721-f6b3a178e1c2" />
+" width="100%" alt="Banner" />
 
   <h1>I'm Gasan 👋</h1>
   <p><b>Developer from Russia 🇷🇺 | Любитель системного кода и красивого фронтенда</b></p>
