@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines-red.png" width="100%" alt="Banner" />
 
-<!--
-**vsc05/vsc05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>I'm Gasan 👋</h1>
+  <p><b>Developer from Russia 🇷🇺 | Любитель системного кода и красивого фронтенда</b></p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Мой технологический стек
+
+| Категория | Технологии |
+| :--- | :--- |
+| **Языки** | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
+
+---
+
+### 🚀 Немного о моих навыках:
+* 🌍 Базируюсь в **России**.
+* 🍎 Делаю мобильные приложения на **Swift**.
+* ⚙️ Пишу высоконагруженные системы на **Go** и **C++**.
+* 🐍 Использую **Python** для нейронок, скриптов и API.
+* ⚛️ Верстаю современные интерфейсы на **React**.
+* 🐳 Разворачиваю и масштабирую проекты через **Docker** и **Kubernetes**.
+
+---
+
+### 📊 Моя статистика GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[ТВОЙ_НИК]&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ТВОЙ_НИК]&layout=compact&theme=radical&hide_border=true" alt="Langs" />
+</p>
+
+---
+
+### 📫 Связь со мной:
+<p align="left">
+<a href="https://t.me/vsc05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="telegram" height="30" width="40" /></a>
+<a href="mailto:gasa.abdullaev.99@bk.ru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+</p>
