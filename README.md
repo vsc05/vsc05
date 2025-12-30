@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://komponentavto.ru/upload/iblock/08f/311yy4r3eyjqaonqogz3d7hm2qoth9t8.png" width="100%" alt="Banner" />"
+<img src="https://komponentavto.ru/upload/iblock/08f/311yy4r3eyjqaonqogz3d7hm2qoth9t8.png" width="100%" alt="Banner" />
 
   <h1>I'm Gasan 👋</h1>
   <p><b>Developer from Russia 🇷🇺 | Любитель системного кода и красивого фронтенда</b></p>
